@@ -1,4 +1,4 @@
-# Cyber Math – Simple Python Programs for Real-Life Security
+# Cyber Math – Python Programs for Real-Life Security
 
 
 ## Overview of the Project
